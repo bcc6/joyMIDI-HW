@@ -1,0 +1,180 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC165
+D 8-bit parallel-in/serial out shift register
+$ENDCMP
+#
+$CMP AIC1746-33
+D LDO 150mA 3.3V
+$ENDCMP
+#
+$CMP AUDIO_JACK_TRS
+D Stereo audio Jack, withc switch contact
+K stereo audio jack
+$ENDCMP
+#
+$CMP BMA2xx
+D Three-Axis Accelerometer
+$ENDCMP
+#
+$CMP CPa
+D Polarised capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP Ca
+D Unpolarised capacitor
+K cap capacitor
+$ENDCMP
+#
+$CMP CommonChoke
+D EMI 2-inductor-filter
+K EMI filter
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c30e.ashx?la=en-gb
+$ENDCMP
+#
+$CMP Da
+D Diode
+K diode
+$ENDCMP
+#
+$CMP EC05E
+D Scroll wheel
+K Scroll wheel
+$ENDCMP
+#
+$CMP EMI_Filter_CommonMode
+D EMI 2-inductor common-mode-filter
+K EMI common mode filter
+F ~
+$ENDCMP
+#
+$CMP FSR
+D FSR
+K r res resistor
+$ENDCMP
+#
+$CMP GND_ANA
+D Power
+K POWER, PWR
+$ENDCMP
+#
+$CMP GND_DIG
+D Power
+K POWER, PWR
+$ENDCMP
+#
+$CMP GND_PWR
+D Power
+K POWER, PWR
+$ENDCMP
+#
+$CMP HDR_01X04
+D Connector, single row, 01x05, pin header
+K connector
+$ENDCMP
+#
+$CMP HDR_01X05
+D Connector, single row, 01x05, pin header
+K connector
+$ENDCMP
+#
+$CMP JoyStick
+D Potentiometer
+K resistor variable
+$ENDCMP
+#
+$CMP LED_Mono
+D LED, 2-pin
+K LED
+$ENDCMP
+#
+$CMP LED_RGB_CA
+D LED CRGB
+K LED
+$ENDCMP
+#
+$CMP La
+D Inductor, small symbol
+K inductor choke coil reactor magnetic
+$ENDCMP
+#
+$CMP M452LD3AE
+D Cortex-M4F, 72MHz, 72K Flash, 16K SRAM, LQFP-48
+K Nuvoton M451
+$ENDCMP
+#
+$CMP MICRO_USB
+D micro USB connector
+K USB
+$ENDCMP
+#
+$CMP MXC4005XC
+D Three-Axis Accelerometer
+$ENDCMP
+#
+$CMP NPTH
+D Non plating through hole
+K NPTH
+$ENDCMP
+#
+$CMP PTH
+D Plating through hole
+K PTH
+$ENDCMP
+#
+$CMP PushButton
+D Push button switch, generic, two pins
+K switch normally-open pushbutton push-button
+$ENDCMP
+#
+$CMP RClamp0582N
+D Three-Axis Accelerometer
+$ENDCMP
+#
+$CMP Ra
+D Resistor
+K r res resistor
+$ENDCMP
+#
+$CMP TLP2361
+D Photocoupler, Inverter logic type, 2.7-5.5V, SO-6
+K Toshiba photocoupler
+$ENDCMP
+#
+$CMP TestPoint
+D Testpoint, connection for test equipment
+K tp testpoint
+$ENDCMP
+#
+$CMP VBUS
+D Power
+K POWER, PWR
+$ENDCMP
+#
+$CMP VCC_ANA
+D Power
+K POWER, PWR
+$ENDCMP
+#
+$CMP VCC_DIG
+D Power
+K POWER, PWR
+$ENDCMP
+#
+$CMP VCC_PWR
+D Power
+K POWER, PWR
+$ENDCMP
+#
+$CMP VR_Slide
+D Potentiometer
+K resistor variable
+$ENDCMP
+#
+$CMP Xtal
+D Two pin crystal
+K quartz ceramic resonator oscillator
+$ENDCMP
+#
+#End Doc Library

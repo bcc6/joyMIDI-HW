@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name joyMIDI)(type Legacy)(uri ${KIPRJMOD}/library/joyMIDI.lib)(options "")(descr ""))
+)
