@@ -99,7 +99,7 @@ D Inductor, small symbol
 K inductor choke coil reactor magnetic
 $ENDCMP
 #
-$CMP M452LD3AE
+$CMP M452LE6AE
 D Cortex-M4F, 72MHz, 72K Flash, 16K SRAM, LQFP-48
 K Nuvoton M451
 $ENDCMP
