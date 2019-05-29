@@ -1,4 +1,4 @@
-(module CommonChoke_Dual0603 (layer F.Cu) (tedit 5ADEDC08)
+(module CommonChoke_Dual0603 (layer F.Cu) (tedit 5CEE1575)
   (descr SOT-143)
   (tags SOT-143)
   (attr smd)
@@ -26,7 +26,7 @@
   (pad 3 smd rect (at -0.6 0.75) (size 0.9 0.5) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 0.6 0.75) (size 0.9 0.5) (layers F.Cu F.Paste F.Mask))
   (pad 1 smd rect (at 0.6 -0.75) (size 0.9 0.5) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/TO_SOT_Packages_SMD.3dshapes/SOT-143.wrl
+  (model ${KIPRJMOD}/modules/joyMIDI.pretty/package3d/USBCommonChoke0603.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

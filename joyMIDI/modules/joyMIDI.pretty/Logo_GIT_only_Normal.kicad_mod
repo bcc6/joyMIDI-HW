@@ -1,9 +1,10 @@
-(module Logo_GIT_only_Normal (layer F.Cu) (tedit 5B14F18E)
-  (fp_text reference G*** (at 0 0) (layer F.SilkS) hide
-    (effects (font (thickness 0.3)))
+(module Logo_GIT_only_Normal (layer F.Cu) (tedit 5CEE199F)
+  (attr virtual)
+  (fp_text reference G*** (at 6.6 -1.6) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
   )
-  (fp_text value LOGO (at 0.75 0) (layer F.SilkS) hide
-    (effects (font (thickness 0.3)))
+  (fp_text value LOGO (at 7.2 0.4) (layer F.SilkS) hide
+    (effects (font (size 1.524 1.524) (thickness 0.3)))
   )
   (fp_poly (pts (xy 0.403846 -4.676535) (xy 0.737478 -4.676058) (xy 1.007813 -4.674829) (xy 1.222279 -4.672496)
     (xy 1.388305 -4.668705) (xy 1.513318 -4.663102) (xy 1.604747 -4.655334) (xy 1.670021 -4.645046)

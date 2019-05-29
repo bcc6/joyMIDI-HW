@@ -1,4 +1,4 @@
-(module LED_D4.8mm-4 (layer F.Cu) (tedit 5B141BED)
+(module LED_D4.8mm-4 (layer F.Cu) (tedit 5CEE1946)
   (descr "LED, diameter 5.0mm, 2 pins, diameter 5.0mm, 3 pins, diameter 5.0mm, 4 pins, http://www.kingbright.com/attachments/file/psearch/000/00/00/L-154A4SUREQBFZGEW(Ver.9A).pdf")
   (tags "LED diameter 5.0mm 2 pins diameter 5.0mm 3 pins diameter 5.0mm 4 pins")
   (fp_text reference REF** (at 1.905 -3.96) (layer F.SilkS)

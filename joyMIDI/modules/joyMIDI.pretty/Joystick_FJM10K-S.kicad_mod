@@ -1,7 +1,6 @@
-(module Joystick_FJM10K-S (layer F.Cu) (tedit 5B14FF7A)
+(module Joystick_FJM10K-S (layer F.Cu) (tedit 5CEE1840)
   (descr "THUMB JOYSTICK")
   (tags "THUMB JOYSTICK")
-  (attr virtual)
   (fp_text reference >NAME (at -11.7 0 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

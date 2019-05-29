@@ -1,4 +1,4 @@
-(module PRTR5V0U2X_SOT-143B (layer F.Cu) (tedit 5ADED3C0)
+(module PRTR5V0U2X_SOT-143B (layer F.Cu) (tedit 5CEE1B1B)
   (descr SOT-143)
   (tags SOT-143)
   (attr smd)
@@ -26,9 +26,9 @@
   (pad 2 smd rect (at -1 0.95) (size 0.7 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at 1 0.95) (size 0.7 0.6) (layers F.Cu F.Paste F.Mask))
   (pad 4 smd rect (at 1 -0.95) (size 0.7 0.6) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/TO_SOT_Packages_SMD.3dshapes/SOT-143.wrl
+  (model ${KIPRJMOD}/modules/joyMIDI.pretty/package3d/SOT143.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 90))
   )
 )

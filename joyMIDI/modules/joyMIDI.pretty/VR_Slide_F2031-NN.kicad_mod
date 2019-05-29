@@ -1,5 +1,4 @@
-(module VR_Slide_F2031-NN (layer F.Cu) (tedit 5BA24B94)
-  (attr virtual)
+(module VR_Slide_F2031-NN (layer F.Cu) (tedit 5CEE1B7B)
   (fp_text reference >NAME (at -15.1 -5.8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
