@@ -1,3 +1,3 @@
 # joyMIDI-HW
 
-Kicad 5.0.0
+Kicad 5.1.2

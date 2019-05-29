@@ -1,4 +1,4 @@
-(module RubberPad (layer F.Cu) (tedit 5CEE1B49)
+(module RubberPad (layer F.Cu) (tedit 5CEE3B74)
   (descr "Imported from .\\RubberPad.svg")
   (tags svg2mod)
   (attr virtual)
